@@ -31,7 +31,7 @@ If you have any request, feel free to contact me! :)
 - Checking compliance of UI with designer layouts (Figma)
 - Estimation of labor costs to complete tasks
 
-[![Sunaaa1's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunaaa1)](https://github.com/sunaaa1/github-readme-stats)
+<!-- [![Sunaaa1's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunaaa1)](https://github.com/sunaaa1/github-readme-stats) --!>
 
 
 
