@@ -14,7 +14,7 @@ If you have any request, feel free to contact me! :)
    📫 How to reach me: <a href='mailto:sunnat.shukhratov@gmail.com'>sunnat.shukhratov@gmail.com</a>
 </p>
 
-**Technical stack**
+**Key skills**
 - Conducting functional and non-functional testing
 - Integration and regression testing
 - Smoke testing
