@@ -1,11 +1,18 @@
 ### Hi,I'm Sunnat 👋
-<img src="{https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white}" linkedin.com/in/sunnat-shukhratov-202020197 />
-<img src="{https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white}" /> @Sshukhratov
-How to reach me: sunnat.shukhratov@gmail.com
 
 I am Quality Assurance Engineer, currently working on startups
 If you have any request, feel free to contact me! :)
 
+<p align='center'>
+   <a href="https://www.linkedin.com/in/sunnat-shukhratov-202020197/">
+       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+   </a>
+   <a href="https://t.me/sshukhratov">
+       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+   </a>
+<p align='center'>
+   📫 How to reach me: <a href='mailto:sunnat.shukhratov@gmail.com'>sunnat.shukhratov@gmail.com</a>
+</p>
 
 **Technical stack**
 - Conducting functional and non-functional testing
@@ -26,8 +33,11 @@ If you have any request, feel free to contact me! :)
 
 [![Sunaaa1's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunaaa1)](https://github.com/sunaaa1/github-readme-stats)
 
-
-
+<div align="center" style="margin: 40px 0">
+   <a href="https://github.com/romankh3/github-profile-views-counter">
+       <img width="175px" src="https://komarev.com/ghpvc/?username=romankh3&color=DE002D">
+   </a>
+</div>
 
 
 
